@@ -9,7 +9,7 @@ public class Main {
             originalList.add(i);
         }
 
-        System.out.println("Llista original:");
+        System.out.println("Original List:");
         System.out.println(originalList);
 
         List<Integer> reversedList = new ArrayList<>();
@@ -19,7 +19,7 @@ public class Main {
             reversedList.add(iterator.previous());
         }
 
-        System.out.println("Llista invertida:");
+        System.out.println("Reversed List:");
         System.out.println(reversedList);
     }
 }
