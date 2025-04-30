@@ -50,7 +50,7 @@ Ensure the following are installed on your system:
 2. **Clone the repository:**
 ```bash
 git clone https://github.com/ArnauAsole/S1.03.JavaCollections.Lv1.Ex2.git
-cd reverse-list-java
+cd ArnauAsole/S1.03.JavaCollections.Lv1.Ex2/
 Open the project in IntelliJ:
 
 Go to File → Open
@@ -73,4 +73,4 @@ This is a console-based Java application and does not require deployment.
 Simply run it locally in your preferred development environment.
 
 🤝 Acknowledgements
-Thanks to Ana, Alejandro, Adrià, and Ignasi for their guidance and support in completing this exercise.
+Thanks to Ana, Alejandro, Adrià and Ignasi for their guidance and support in completing this exercise.
